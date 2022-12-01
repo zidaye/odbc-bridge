@@ -25,3 +25,6 @@ chrono = "0.4.22"
 dameng-helper = { path = "../dameng-helper", version = "0.2.4" }
 odbc-common = { path = "../odbc-common", version = "0.2.3" }
 pg-helper = { path = "../pg-helper", version = "0.2.3" }
+
+[dev-dependencies]
+serde_json = "1.0.87"
