@@ -20,5 +20,5 @@ thiserror = "1.0"
 nu-protocol = "=0.69.1"
 nu-table = "=0.69.1"
 log = "0.4.17"
-odbc-api = "0.52.2"
+odbc-api =  {git="https://github.com/gamife/odbc-api.git", branch="feature/num_params"}
 serde = "1.0.147"
